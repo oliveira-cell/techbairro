@@ -1,0 +1,15 @@
+#===
+# .gitignore da TechBairro (Aula 24)
+# ============================================================
+# Cada linha é um padrão de arquivo ou pasta
+# que o Git deve ignorar (não entra no histórico).
+# Banco de dados com os dados pessoais dos clientes (LGPD)
+techbairro.db
+# Pasta que o Python gera sozinho ao importar os módulos
+__pycache__/
+# Arquivos compilados do Python
+*.pyache
+
+# Pacotes .zip gerados pelo gerar_pacote.py (Aula 18)
+dist/
+*.zip

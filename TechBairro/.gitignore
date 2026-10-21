@@ -12,4 +12,4 @@ __pycache__/
 
 # Pacotes .zip gerados pelo gerar_pacote.py (Aula 18)
 dist/
-*.zip
+*.zipg

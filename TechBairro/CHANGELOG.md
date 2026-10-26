@@ -4,6 +4,7 @@
 # Changelog
 
 ## v3.3.2 (Aula 27)
+
 ### Adicionado
 - README com requisitos, instalação e configuração do banco.
 - Arquivo requirements.txt.

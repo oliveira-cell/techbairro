@@ -3,7 +3,7 @@
 
 # Changelog
 
-## v3.3.0 (Aula 20)
+## v3.3.2 (Aula 20)
 
 ### Adicionado
 - Botão "Salvar edição" durante a alteração de clientes.

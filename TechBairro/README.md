@@ -2,7 +2,7 @@
 
 Sistema de cadastro e gerenciamento de moradores e clientes para associações de bairro, desenvolvido para facilitar o atendimento diário e o controle de cadastros.
 
-**Versão atual:** 1.0.0 · Histórico de mudanças no [CHANGELOG](CHANGELOG.md)
+**Versão atual:** 3.3.2 · Histórico de mudanças no [CHANGELOG](CHANGELOG.md)
 
 ## Funcionalidades
 - Cadastro completo de novos clientes com validação de campos.

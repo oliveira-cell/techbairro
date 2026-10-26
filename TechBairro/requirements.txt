@@ -1,0 +1,5 @@
+```text
+# O projeto TechBairro não possui dependências externas.
+# Ele utiliza apenas módulos nativos da Biblioteca Padrão do Python:
+# - tkinter (para a interface gráfica)
+# - sqlite3 (para o banco de dados local)

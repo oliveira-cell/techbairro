@@ -23,7 +23,7 @@
 - O número da versão passou a ficar em um único lugar.
 
 ### Adicionado
-- Script scripts/gerar_pacote.py, que gera o pacote da versão.
+- Script scripts/gerar_pacote.py, que gera o pacote da versão.+
 - Arquivo COMO_EXECUTAR.txt, com as instruções para executar a TechBairro.
 
 ## v3.2.0

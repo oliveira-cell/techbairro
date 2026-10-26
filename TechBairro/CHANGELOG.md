@@ -3,6 +3,13 @@
 
 # Changelog
 
+## v3.3.2 (Aula 27)
+### Adicionado
+- README com requisitos, instalação e configuração do banco.
+- Arquivo requirements.txt.
+- Manual de uso em docs/manual_de_uso.md.
+- Registro de testes em docs/registro_de_testes.md.
+
 ## v3.3.0 (Aula 20)
 
 ### Adicionado
